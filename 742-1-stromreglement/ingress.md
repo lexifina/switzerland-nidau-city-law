@@ -1,3 +1,3 @@
-# Reglement über die allgemeinen Bedingungen für den Netzanschluss, die Netznutzung und die Lieferung elektrischer Energie
-(Stromreglement)
-Vom 18.11.2010
+# Elektrizitätsreglement
+Vom 08.03.2026
+1 Allgemeine Bestimmungen
