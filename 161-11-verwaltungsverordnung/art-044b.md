@@ -1,0 +1,3 @@
+# Art. 44b Aussagen vor Gericht und in Verfahren
+1 Die Mitarbeitenden dürfen vor Gerichten, vor andern verwaltungsunabhängigen Justizbehörden, in erstinstanzlichen Verwaltungsverfahren sowie in verwaltungsinternen Beschwerdeverfahren über Angelegenheiten, die ihnen in ihrer dienstlichen Stellung zur Kenntnis gelangt sind und die ihrer Natur nach oder nach besonderer Vorschrift geheim zu halten sind, nur aussagen, wenn der Gemeinderat sie vom Amtsgeheimnis entbunden hat.
+2 Die Leiterin oder der Leiter Soziale Dienste ist generell zu solchen Aussagen ermächtigt und in diesem Umfang vom Amtsgeheimnis entbunden.
