@@ -8,6 +8,7 @@
 ## 4 Verwaltungsorganisation
 ### 4.1 Allgemeines
 ### 4.2 Stadtverwalterin / Stadtverwalter
+### 4.2bis Stadtkanzlei
 ### 4.3 Abteilungen
 ### 4.4 Zuständigkeiten in Personalfragen
 ## 5 Zuständigkeiten im Geschäftsverkehr
