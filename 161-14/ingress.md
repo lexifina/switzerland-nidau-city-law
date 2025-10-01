@@ -1,2 +1,2 @@
-# Weisung über die Nutzung der Informatik
-Vom 04.12.2001
+# Verordnung über die Nutzung von Informatikmitteln
+Vom 01.07.2025
