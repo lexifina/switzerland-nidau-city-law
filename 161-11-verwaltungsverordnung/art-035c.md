@@ -1,0 +1,2 @@
+# Art. 35c Grundsatz
+1 Das Human Resources unterstützt als Stabsstelle den Stadtverwalter oder die Stadtverwalterin in seiner oder ihrer Funktion als Personalchef oder Personalchefin. Es nimmt eine beratende, koordinierende und konzeptionelle Rolle in personalstrategischen und -administrativen Belangen wahr. Die konkreten Zuständigkeiten und Entscheidbefugnisse ergeben sich aus dem Funktionendiagramm.
