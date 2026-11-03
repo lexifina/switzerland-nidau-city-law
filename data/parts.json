@@ -1,0 +1,54 @@
+{
+ "parts": {
+  "10-verfassung.json": {
+   "acts": [
+    "101-1"
+   ],
+   "sha256": "5d42538c43b8c956a242c423cc451910dbadad9cb37a9ba6da83815c3e0a64cd"
+  },
+  "41-verordnungen-2.json": {
+   "acts": [
+    "521-1",
+    "521-11",
+    "521-12",
+    "552-1",
+    "554-1-videoreglement",
+    "556-1",
+    "621-1",
+    "622-1",
+    "623-1",
+    "624-1",
+    "624-11",
+    "661-1",
+    "671-1",
+    "671-11",
+    "681-11",
+    "681-12-nutzungsordnung-balainen",
+    "681-2",
+    "720-1",
+    "720-2-tbr-altstadt",
+    "720-3-tbr-gmp",
+    "720-4-tbr-weiteres-stadtgebiet",
+    "726-1",
+    "727-1-verordnung-fachausschuss",
+    "732-5-strassenbeitragsreglement",
+    "734-1-abwasserreglement",
+    "734-11",
+    "742-1-stromreglement",
+    "742-11",
+    "751-11",
+    "761-1-parkierungsreglement",
+    "761-11-parkierungsverordnung",
+    "822-1-abfallreglement",
+    "841-1-regak",
+    "860-1",
+    "865-11",
+    "935-1",
+    "935-11",
+    "936-1"
+   ],
+   "sha256": "3304ed4b5b249d1b135a67846dd442393a37b20096a3577e3f2c5a832421b677"
+  }
+ },
+ "schema": 1
+}

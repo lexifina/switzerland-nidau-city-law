@@ -1,0 +1,641 @@
+{
+ "country": "CH-BE-NIDAU",
+ "acts": [
+  {
+   "slug": "101-1",
+   "short": "SRS 101.1",
+   "title": "Stadtordnung von Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/101.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 95,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/101.1/versions/101",
+     "sha256": "a4bf19a0c131b4644b5490f734971a7f18606b6f183915fb0344a18709cc3608"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 95,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/101.1",
+     "sha256": "7301d9791255106f19595127cc571243d314d5e1196001a349b41137744e10c0"
+    }
+   ]
+  },
+  {
+   "slug": "521-1",
+   "short": "SRS 521.1",
+   "title": "Reglement über die Übertragung der Aufgaben in den Bereichen Feuerwehr und Gemeindeführung in Katastrophen und Notlagen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/521.1",
+   "versions": [
+    {
+     "from": "2012-06-21",
+     "units": 9,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/521.1",
+     "sha256": "17824d9a8d36ad67e9e3e1f81468f68b86172a5b3ad265dfb853b07202559539"
+    }
+   ]
+  },
+  {
+   "slug": "521-11",
+   "short": "SRS 521.11",
+   "title": "Vertrag betreffend die Besorgung der Aufgaben des Gemeindeführungsorgans im Sinne von Artikel 15 und Artikel 25 des Kantonalen Bevölkerungsschutzund Zivilschutzgesetzes vom 24. Juni 2004 (BSG 521.1)",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/521.11",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 7,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/521.11",
+     "sha256": "7bc14b58b7cd1b178df2f594ca255125b30697bc6a5cebe5cec3d15783767f7f"
+    }
+   ]
+  },
+  {
+   "slug": "521-12",
+   "short": "SRS 521.12",
+   "title": "Vertrag betreffend Regiofeuerwehr Agglomeration Biel",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/521.12",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 26,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/521.12",
+     "sha256": "292ee0e94261e61b0de53cc93a1b280b787a3a558c80bd5ac86f238dd036a95e"
+    }
+   ]
+  },
+  {
+   "slug": "552-1",
+   "short": "SRS 552.1",
+   "title": "Polizeireglement",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/552.1",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 86,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/552.1/versions/123",
+     "sha256": "b6a87b3c566b00a6803c55a9fc11a1813b5f69f74e93b32644d41fcb5407858f"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 32,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/552.1",
+     "sha256": "76a0b4d25cfac3370c2a7c82661d52f5eaa1f01fd45285a98f8939e792136d06"
+    }
+   ]
+  },
+  {
+   "slug": "554-1-videoreglement",
+   "short": "Videoreglement",
+   "title": "Reglement über die Videoüberwachung Im öffentlichen Raum",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/554.1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/554.1",
+     "sha256": "ff619b00463cab4d0dc61e0e5d6bb9ee916e99419f2d7ca821a90079cf87aa1d"
+    }
+   ]
+  },
+  {
+   "slug": "556-1",
+   "short": "SRS 556.1",
+   "title": "Reglement über die unentgeltliche Bestattung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/556.1",
+   "versions": [
+    {
+     "from": "1993-11-28",
+     "units": 3,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/556.1",
+     "sha256": "748270a4ba0e52c4b054bda5b0a46e2c9a9d237e08a86c2a5e6d7bcd621b0f5a"
+    }
+   ]
+  },
+  {
+   "slug": "621-1",
+   "short": "SRS 621.1",
+   "title": "Reglement über die Spezialfinanzierung Wasserversorgung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/621.1",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 6,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/621.1",
+     "sha256": "3e246a396f3c2c42f3837e99946494ebc6b1766f31cf4076ac729660bc940589"
+    }
+   ]
+  },
+  {
+   "slug": "622-1",
+   "short": "SRS 622.1",
+   "title": "Reglement über die Spezialfinanzierung «Parkplatzersatzabgaben»",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/622.1",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 7,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/622.1",
+     "sha256": "2d03abc1f98a019779eb7bd92acd3f4fe4fe40e18316c7938edd65cd47dc4470"
+    }
+   ]
+  },
+  {
+   "slug": "623-1",
+   "short": "SRS 623.1",
+   "title": "Reglement über die Spezialfinanzierung Liegenschaften des Finanzvermögens",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/623.1",
+   "versions": [
+    {
+     "from": "1998-05-14",
+     "units": 7,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/623.1",
+     "sha256": "aa7e7adc2a7dbd35aced8ad041f1970546cab10c293af47b2345b8660baee224"
+    }
+   ]
+  },
+  {
+   "slug": "624-1",
+   "short": "SRS 624.1",
+   "title": "Reglement zur Förderung von Anstrengungen in den Bereichen Energieeffizienz und Klimaschutz (Spezialfinanzierung)",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/624.1",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.1/versions/128",
+     "sha256": "cc7b85c13f9a5542a10b1222fa41f42f1854d0fd55458f57b4b342319a744983"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 13,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.1",
+     "sha256": "06cfbb4c4dee7a9a1777f6196c61984cc70794b7cb473c2621c49dd728c989dd"
+    }
+   ]
+  },
+  {
+   "slug": "624-11",
+   "short": "SRS 624.11",
+   "title": "Verordnung zur Förderung von Anstrengungen in den Bereichen Energieeffizienz und Klimaschutz",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/624.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 11,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.11/versions/195",
+     "sha256": "72840d87c0720aa03e04170105d59cc616dc2fbf624bbd36d2608c035220518d"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 11,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.11",
+     "sha256": "e7b3dc404fa8a1f140684d8fb10f147c1e989e900cad1af608855ee9a68fcb9b"
+    }
+   ]
+  },
+  {
+   "slug": "661-1",
+   "short": "SRS 661.1",
+   "title": "Reglement über die Liegenschaftssteuern",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/661.1",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/661.1",
+     "sha256": "8ba9b1a96527040858fd23362e1922506aae392752a8699a126436a51ce1c9f7"
+    }
+   ]
+  },
+  {
+   "slug": "671-1",
+   "short": "SRS 671.1",
+   "title": "Gebührenreglement",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/671.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 56,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/671.1/versions/127",
+     "sha256": "48ad4411e98267bf4d4fc32dec44c8539d75f537f2d2b798eb0b182b91420a7f"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 56,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/671.1",
+     "sha256": "783b2cedcb21195f8afa83db32053a59688d281bf1053629588f95ae409bd202"
+    }
+   ]
+  },
+  {
+   "slug": "671-11",
+   "short": "SRS 671.11",
+   "title": "Verordnung über die Kanzleigebühren",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/671.11",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/671.11",
+     "sha256": "dbcd1a27a2b84ea511b33d1b109eb187fbb84944245d3d07616055c6affdf164"
+    }
+   ]
+  },
+  {
+   "slug": "681-2",
+   "short": "SRS 681.2",
+   "title": "Nutzungsordnung Parzellen 17 und 525",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/681.2",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 21,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.2/versions/241",
+     "sha256": "15ff2ce014e27a4c342ff5e1fa13e52a12c4dd988acabfbbca8931267944c25b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 21,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.2",
+     "sha256": "c46b9b1aabf005e66390e9219c52f4e9e81e162c7ac69998f6f4c20910b788ec"
+    }
+   ]
+  },
+  {
+   "slug": "681-11",
+   "short": "SRS 681.11",
+   "title": "Verordnung über die Benützung der Schul- und Sportanlagen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/681.11",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 27,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.11/versions/255",
+     "sha256": "5ad9d8353fd126072c0beb5d5a903c09184007e5960b5113343419560ce0e736"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 27,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.11",
+     "sha256": "a4977ca2090167f73a960261e23e258d28cc25f5c16437cec6e8e5a039f0c456"
+    }
+   ]
+  },
+  {
+   "slug": "681-12-nutzungsordnung-balainen",
+   "short": "Nutzungsordnung Balainen",
+   "title": "Nutzungsordnung für das Schulgelände Balainen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/681.12",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 10,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.12",
+     "sha256": "802ced0509a8ed98d809b8812c71ba3fbfaa73f41892ca9bf9107a093a8e1a80"
+    }
+   ]
+  },
+  {
+   "slug": "720-1",
+   "short": "SRS 720.1",
+   "title": "Baureglement",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/720.1",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 55,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.1",
+     "sha256": "b1e42622faa49bc13cee77bd9bc1f2ee2e7e0cbb42f39252cdf1ab21d1797655"
+    }
+   ]
+  },
+  {
+   "slug": "720-2-tbr-altstadt",
+   "short": "TBR Altstadt",
+   "title": "Teilbaureglement Altstadt",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/720.2",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 69,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.2",
+     "sha256": "0d342eb10c591d56dd35ee364f081b178adcb2914abff7e98352b4119a6ee712"
+    }
+   ]
+  },
+  {
+   "slug": "720-3-tbr-gmp",
+   "short": "TBR GMP",
+   "title": "Teilbaureglement Guido-Müller-Platz West",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/720.3",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 28,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.3",
+     "sha256": "64d6f5f80c5eeecd6cb95ff5dea7ca581a70e145bfb784465678296214fdc25c"
+    }
+   ]
+  },
+  {
+   "slug": "720-4-tbr-weiteres-stadtgebiet",
+   "short": "TBR weiteres Stadtgebiet",
+   "title": "Teilbaureglement weiteres Stadtgebiet und Vorschriften zum Uferschutzplan Nidau-Büren-Kanal",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/720.4",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 60,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.4",
+     "sha256": "8ce587df605b8723797eb114841f30bfae310af8d23d5212a26414bd4973bd83"
+    }
+   ]
+  },
+  {
+   "slug": "726-1",
+   "short": "SRS 726.1",
+   "title": "Reglement über die Errichtung von Radio- und Fernseantennenanlagen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/726.1",
+   "versions": [
+    {
+     "from": "1972-03-24",
+     "units": 19,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/726.1",
+     "sha256": "610efe4f798f85a6f31ca783097f07642df4cc1767fd5755057eabc8180cab3d"
+    }
+   ]
+  },
+  {
+   "slug": "727-1-verordnung-fachausschuss",
+   "short": "Verordnung Fachausschuss",
+   "title": "Verordnung über den Fachausschuss für Planungs- und Baufragen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/727.1",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 12,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/727.1/versions/239",
+     "sha256": "592bffc6a4223c4c606f2ea385291bd9c82b54c5efdc97234677e945916178f5"
+    },
+    {
+     "from": "2023-09-21",
+     "units": 12,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/727.1",
+     "sha256": "da35bba26c1f0ae039edc754eb04860344f57512c5a032bf3246712fa127541a"
+    }
+   ]
+  },
+  {
+   "slug": "732-5-strassenbeitragsreglement",
+   "short": "Strassenbeitragsreglement",
+   "title": "Reglement über die Erhebung von Beiträgen der Grundeigentümer an die Strassenbaukosten der Gemeinde Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/732.5",
+   "versions": [
+    {
+     "from": "1976-07-01",
+     "units": 30,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/732.5",
+     "sha256": "470d6f91a27ea524bda85ab9aab180cfeaf40e86dbc0eff2fbb5fab8c4d8e0a7"
+    }
+   ]
+  },
+  {
+   "slug": "734-1-abwasserreglement",
+   "short": "Abwasserreglement",
+   "title": "Reglement über die Entsorgung des Abwassers",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/734.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 50,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.1/versions/120",
+     "sha256": "19b85d6c97a24e5209448adf8972c526ea671a32e105b6bb8e6ea8e851359ae2"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 51,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.1",
+     "sha256": "8698fbff607dbf584aca469123b772722645b68753c66a1f11084a4ff02bf527"
+    }
+   ]
+  },
+  {
+   "slug": "734-11",
+   "short": "SRS 734.11",
+   "title": "Verordnung über den Abwassertarif",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/734.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 5,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.11/versions/119",
+     "sha256": "59a16bb0a1afc12d728299d552613baf96b271a5a994d803ed47ad5f5a4af2d3"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.11/versions/245",
+     "sha256": "b0f2455c94ad93d17099cc45aa8fecc6ca3cbd596ea20f146e85228d32997ffc"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.11",
+     "sha256": "3bcf7d4417488052f2356ea7f92f3f9564428e87ffa8115aa26574b293b9998d"
+    }
+   ]
+  },
+  {
+   "slug": "742-1-stromreglement",
+   "short": "Stromreglement",
+   "title": "Reglement über die allgemeinen Bedingungen für den Netzanschluss, die Netznutzung und die Lieferung elektrischer Energie",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/742.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 37,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.1/versions/117",
+     "sha256": "d3af6fb985f0c89d989f9e32fc403af03bc3be7d0f932f4e101405011ba2ffef"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 37,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.1",
+     "sha256": "ca79bf6bb4ff12275cbed3684ee08f244415df8c12962da141cad1126864e435"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 12,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.1/versions/297",
+     "sha256": "9361e672739ccebc8731cbf8ee4a505a082179e79091033041834a5984ebeeec"
+    }
+   ]
+  },
+  {
+   "slug": "742-11",
+   "short": "SRS 742.11",
+   "title": "Verordnung über die Gebühren und Tarife der Elektrizitätsversorgung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/742.11",
+   "versions": [
+    {
+     "from": "2004-10-01",
+     "units": 4,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.11",
+     "sha256": "670d66e035743f029f3a2f6542f05fb25daf71719347ad50051bb80ac9b4b0d4"
+    }
+   ]
+  },
+  {
+   "slug": "751-11",
+   "short": "SRS 751.11",
+   "title": "Reglement über die Übertragung der Wasserversorgung an die Stadt Biel",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/751.11",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 6,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/751.11",
+     "sha256": "8f35180e6254ecf81154ccd31c4406e51a11717304c99d9843897e35487d9361"
+    }
+   ]
+  },
+  {
+   "slug": "761-1-parkierungsreglement",
+   "short": "Parkierungsreglement",
+   "title": "Reglement über die Benützung der öffentlichen Parkplätze der Stadt Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/761.1",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 11,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/761.1",
+     "sha256": "29c73028a24e8d778fc77381c244731e1cef617b77f89809eb557ef60d141448"
+    }
+   ]
+  },
+  {
+   "slug": "761-11-parkierungsverordnung",
+   "short": "Parkierungsverordnung",
+   "title": "Verordnung über die Benützung der öffentlichen Parkplätze der Stadt Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/761.11",
+   "versions": [
+    {
+     "from": "2005-05-24",
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/761.11/versions/139",
+     "sha256": "bf7beac1349ab837ec88e9f4a32631421ba3964a38a7ed97066f1a8b0c92b9b2"
+    },
+    {
+     "from": "2013-12-04",
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/761.11",
+     "sha256": "9b51892a947806795686d9f605e13ff8877b53683205beeb7d3209cc2736ac55"
+    }
+   ]
+  },
+  {
+   "slug": "822-1-abfallreglement",
+   "short": "Abfallreglement",
+   "title": "Reglement über die Abfallentsorgung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/822.1",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 41,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/822.1",
+     "sha256": "ffa19236bc262faba538b09c671795720f21c20c9347a4692cecd368a715b347"
+    }
+   ]
+  },
+  {
+   "slug": "841-1-regak",
+   "short": "REGAK",
+   "title": "Reglement für die Gemeindeausgleichskasse Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/841.1",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 17,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/841.1",
+     "sha256": "5b9e92fbc09490a30f3ccb3daf7d4bcd12457f3c3abd660bc07c8b382adefdd3"
+    }
+   ]
+  },
+  {
+   "slug": "860-1",
+   "short": "SRS 860.1",
+   "title": "Reglement über die Sozialkommission",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/860.1",
+   "versions": [
+    {
+     "from": "2012-11-06",
+     "units": 6,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/860.1/versions/136",
+     "sha256": "abae4aa765aa6107aef5d90a2d3fb78a9f337e0f2b93f92fddfc758ea675a1e9"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/860.1",
+     "sha256": "76a63c076ed587067176e03219f948f89460c36ac737ab59cb4267d9a0ada85c"
+    }
+   ]
+  },
+  {
+   "slug": "865-11",
+   "short": "SRS 865.11",
+   "title": "Vertrag betreffend Zusammenarbeit im Bereich der öffentlichen Sozialhilfe und des Kindes- und Erwachsenenschutz",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/865.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 16,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/865.11",
+     "sha256": "fd3b681450f54740722e7d73fcf7ac141354d2c828a3a93887c0517f1e106ce9"
+    }
+   ]
+  },
+  {
+   "slug": "935-1",
+   "short": "SRS 935.1",
+   "title": "Reglement über die Erhebung einer Kurtaxe",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/935.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 16,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/935.1",
+     "sha256": "b664e4c8ab5d6b5c3c20f7a1c69ee07cb5a0d538373476c9ce85d49721954e51"
+    }
+   ]
+  },
+  {
+   "slug": "935-11",
+   "short": "SRS 935.11",
+   "title": "Verordnung über die Erhebung einer Kurtaxe",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/935.11",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 9,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/935.11",
+     "sha256": "0484bfc104267c0b9d9ced748e7bead353bc6b6c54ce365ea0701b6dae17ac52"
+    }
+   ]
+  },
+  {
+   "slug": "936-1",
+   "short": "SRS 936.1",
+   "title": "Reglement über die Arbeits- und Ruhezeit für das Taxigewerbe",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/936.1",
+   "versions": [
+    {
+     "from": "1969-02-25",
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/936.1",
+     "sha256": "5ed1a53815fd2a9884cf90d1ecb4e6e36fc3a522b3fa9afdfd71ac3c46ea903a"
+    }
+   ]
+  }
+ ]
+}
