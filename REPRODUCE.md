@@ -80,7 +80,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 - Corpus: sha256 `0507c80d08b8db3808822813dc929bcd0154dd8bce810e4f3db4d763b9bd3cb6` (664010 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
