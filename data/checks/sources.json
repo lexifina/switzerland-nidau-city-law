@@ -21,6 +21,7 @@
     "switzerland/bern/nidau/acts"
    ],
    "interval": 1.0,
+   "group": "lexwork",
    "repo": "switzerland-nidau-city-law"
   }
  ]

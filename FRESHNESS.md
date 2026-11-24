@@ -9,7 +9,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 ### Nidau: Systematische Sammlung (nidau.tlex.ch) · `switzerland/bern/nidau/acts`
 
 - Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **noch nicht**.
-- Vorschriften hier: 39; aktuell gegenüber der Quelle: 39; an der Quelle geändert seit der Fassung hier: 51; nicht mehr an der Quelle: 0.
+- Vorschriften hier: 39; aktuell gegenüber der Quelle: 39; an der Quelle geändert seit der Fassung hier: 19; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 6 der 39 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 51 (neu an der Quelle, hier noch nicht veröffentlicht: 19, hier vorhanden, an der Quelle nicht mehr: 32); ohne Grund: 0.
 

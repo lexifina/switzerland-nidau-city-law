@@ -6,7 +6,7 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Nidau: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:12 UTC, Nidau: Systematische Sammlung (nidau.tlex.ch): 101 Adressen gelesen; 51 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 51 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-24 14:44 UTC, Nidau: Systematische Sammlung (nidau.tlex.ch): 28 Adressen gelesen; 19 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 51 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
@@ -18,6 +18,7 @@ Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.co
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:44](checks/2026-11.md#ch-lexwork-nidau-city-20261124t144412z) | lexwork-nidau-city | 28 | 19 | 0 | 0 | 51 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 12:11](checks/2026-11.md#ch-lexwork-nidau-city-20261124t121103z) | lexwork-nidau-city | 101 | 51 | 0 | 0 | 51 (0) | die Prüfung ist fehlgeschlagen | — |
 
 ## Selbst prüfen
