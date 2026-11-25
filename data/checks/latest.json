@@ -1,11 +1,19 @@
 {
- "generated": "2026-11-24T15:05:11Z",
+ "generated": "2026-11-25T08:27:55Z",
  "latest": {
   "lexwork-nidau-city|switzerland/bern/nidau/acts": {
-   "attempt": 2,
-   "audit": null,
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the collection's PDF of the act's current version (its pdf_link, a second rendering of the same text), its words against the words of the version held here (97% or more found = agrees)",
+    "sampled": 5,
+    "unreadable": 0
+   },
    "census": {
-    "checked": 6,
+    "checked": 25,
     "current": 39,
     "gone": 0,
     "held": 39,
@@ -15,21 +23,50 @@
     "repo": 39,
     "source_in_scope": 58
    },
-   "check_id": "ch-lexwork-nidau-city-20261124T144412Z",
-   "commits": null,
+   "check_id": "ch-lexwork-nidau-city-20261125T063051Z",
+   "commits": {
+    "count": 34,
+    "from": "745d0d24dd0747fbce32683c39016f7d4bfaca79",
+    "to": "8b56545ebb44558cc12cdfee6a346a71f0355c6f"
+   },
    "corpus": "switzerland/bern/nidau/acts",
-   "error": "RuntimeError: the kit's append gate: error: published head 8877a5028e924ab4c92c30d03eb3542df33a9a42 timestamp 1795522373 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
-   "finished": "2026-11-24T14:44:44Z",
-   "flags": [],
-   "gap": 51,
+   "error": null,
+   "finished": "2026-11-25T06:32:26Z",
+   "flags": [
+    {
+     "detail": "1 of 42 texts differ from the source",
+     "flag": "verify-differ"
+    }
+   ],
+   "gap": 32,
    "note": "nidau.tlex.ch: index of 94 acts (94 in force); held 39; 19 in force and in scope not held yet, 4 out of scope (land-use plans, concessions, directives, forms: as the builder), 32 published only as PDF; 6 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "failed",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "141.1",
+     "151.1",
+     "161.11",
+     "161.12",
+     "161.14",
+     "171.1",
+     "171.15",
+     "172.1",
+     "421.11",
+     "421.12",
+     "423.11",
+     "430.1",
+     "430.11",
+     "430.12",
+     "435.1",
+     "435.4",
+     "435.52",
+     "437.81",
+     "437.82"
+    ],
     "changed": [],
     "removed": []
    },
-   "requests": 28,
+   "requests": 40,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -59,21 +96,60 @@
    },
    "snapshot": "94 entries, 94 in force (nidau.tlex.ch)",
    "source": "lexwork-nidau-city",
-   "started": "2026-11-24T14:44:12Z",
+   "started": "2026-11-25T06:30:51Z",
    "unexplained": 0,
    "update": {
+    "append": {
+     "commits": 33,
+     "corrections": null,
+     "extended_acts": [],
+     "new_acts": [
+      "141-1",
+      "151-1-go-sr",
+      "161-11-verwaltungsverordnung",
+      "161-12-geververordnung",
+      "161-14",
+      "171-1",
+      "171-15",
+      "172-1",
+      "421-11-vbib",
+      "421-12-vlud",
+      "423-11",
+      "430-1-schulreglement",
+      "430-11-schulverordnung",
+      "430-12",
+      "435-1",
+      "435-4",
+      "435-52",
+      "437-81",
+      "437-82-strandbadtarif"
+     ]
+    },
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 19,
     "nothing_new": 0,
     "parts": [
-     "95-watch-20261124-000-new.json"
+     "95-watch-20261125-000-new.json"
     ],
     "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
-   "verify": null
+   "verify": {
+    "cycle_days": 7,
+    "examples": [
+     "437.81 (437-81): 2022-06-01"
+    ],
+    "held": 58,
+    "method": "each act compared this check (25 of 58: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from nidau.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {},
+    "not_compared_why": null,
+    "ok": false,
+    "swept": 25,
+    "versions_checked": 42,
+    "versions_differ": 1
+   }
   }
  },
  "schema": "lexifina-check/1"
