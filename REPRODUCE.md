@@ -1,6 +1,6 @@
 # How this repository was made (Nidau (city))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -53,20 +53,41 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `935-1` | Reglement über die Erhebung einer Kurtaxe | 1 | 2007-01-01 to 2007-01-01 |
 | `935-11` | Verordnung über die Erhebung einer Kurtaxe | 1 | 2007-01-01 to 2007-01-01 |
 | `936-1` | Reglement über die Arbeits- und Ruhezeit für das Taxigewerbe | 1 | 1969-02-25 to 1969-02-25 |
+| `141-1` | Reglement über Gemeindeabstimmungen und -wahlen | 1 | 2003-01-01 to 2003-01-01 |
+| `151-1-go-sr` | Geschäftsordnung des Stadtrats | 4 | 2003-04-01 to 2024-01-01 |
+| `161-11-verwaltungsverordnung` | Verordnung über die Verwaltungsorganisation | 5 | 2013-01-01 to 2026-10-01 |
+| `161-12-geververordnung` | Verordnung über die elektronische Geschäftsverwaltung und Archivierung in der Stadtverwaltung Nidau | 1 | 2020-01-01 to 2020-01-01 |
+| `161-14` | Verordnung über die Nutzung von Informatikmitteln | 2 | 2001-12-04 to 2025-10-01 |
+| `171-1` | Personalreglement | 1 | 2006-07-01 to 2006-07-01 |
+| `171-15` | Verordnung über die städtischen Parkplätze | 1 | 2005-08-01 to 2005-08-01 |
+| `172-1` | Reglement über Entschädigungen für Behörden und Kommissionen | 1 | 2013-01-01 to 2013-01-01 |
+| `421-11-vbib` | Bibliotheksverordnung | 2 | 2005-01-01 to 2016-01-01 |
+| `421-12-vlud` | Ludotheksverordnung | 2 | 2005-01-01 to 2016-01-01 |
+| `423-11` | Verordnung über die Ehrung im Bereich Kultur, Kunst, Soziales und Sport | 1 | 2007-01-01 to 2007-01-01 |
+| `430-1-schulreglement` | Reglement über das Schulwesen | 1 | 2010-04-01 to 2010-04-01 |
+| `430-11-schulverordnung` | Verordnung über das Schulwesen | 1 | 2010-04-01 to 2010-04-01 |
+| `430-12` | Verordnung über die Schulzahnpflege | 1 | 2003-05-01 to 2003-05-01 |
+| `435-1` | Reglement über die Jugendkommission Nidau | 1 | 2004-01-01 to 2004-01-01 |
+| `435-4` | Reglement über die Kinderbetreuung | 2 | 2020-01-01 to 2020-04-01 |
+| `435-52` | Verordnung über die Kinderbetreuung | 1 | 2020-01-01 to 2020-01-01 |
+| `437-81` | Badeordnung | 4 | 2012-05-01 to 2026-01-01 |
+| `437-82-strandbadtarif` | Tarif für die Benützung der Anlagen des Strandbades Nidau | 1 | 2026-01-01 to 2026-01-01 |
 
-The build made 54 commits:
+The build made 87 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 39 | first version of an act |
-| 15 | one law on its in-force day |
+| 4 | baseline texts where the record starts |
+| 83 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-03.
+- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
 - 1 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 55 laws in the record.
-- 108 tags.
+- 90 laws in the record.
+- 169 tags.
 
 ## Dates
 
@@ -78,13 +99,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0507c80d08b8db3808822813dc929bcd0154dd8bce810e4f3db4d763b9bd3cb6` (664010 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `76c5851e28d20e63e983e3237aa7d71634dc3760bf9941e7d56a542c216780da` (1083028 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-54 versions of 39 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -98,7 +119,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

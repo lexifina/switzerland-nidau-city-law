@@ -9,12 +9,18 @@
    "versions": [
     {
      "from": "2013-01-01",
+     "to": "2016-06-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 95,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/101.1/versions/101",
      "sha256": "a4bf19a0c131b4644b5490f734971a7f18606b6f183915fb0344a18709cc3608"
     },
     {
      "from": "2016-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 95,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/101.1",
      "sha256": "7301d9791255106f19595127cc571243d314d5e1196001a349b41137744e10c0"
@@ -29,6 +35,9 @@
    "versions": [
     {
      "from": "2012-06-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/521.1",
      "sha256": "17824d9a8d36ad67e9e3e1f81468f68b86172a5b3ad265dfb853b07202559539"
@@ -43,6 +52,9 @@
    "versions": [
     {
      "from": "2011-03-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/521.11",
      "sha256": "7bc14b58b7cd1b178df2f594ca255125b30697bc6a5cebe5cec3d15783767f7f"
@@ -57,6 +69,9 @@
    "versions": [
     {
      "from": "2013-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/521.12",
      "sha256": "292ee0e94261e61b0de53cc93a1b280b787a3a558c80bd5ac86f238dd036a95e"
@@ -71,12 +86,18 @@
    "versions": [
     {
      "from": "2012-11-06",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 86,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/552.1/versions/123",
      "sha256": "b6a87b3c566b00a6803c55a9fc11a1813b5f69f74e93b32644d41fcb5407858f"
     },
     {
      "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 32,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/552.1",
      "sha256": "76a0b4d25cfac3370c2a7c82661d52f5eaa1f01fd45285a98f8939e792136d06"
@@ -91,6 +112,9 @@
    "versions": [
     {
      "from": "2012-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/554.1",
      "sha256": "ff619b00463cab4d0dc61e0e5d6bb9ee916e99419f2d7ca821a90079cf87aa1d"
@@ -105,6 +129,9 @@
    "versions": [
     {
      "from": "1993-11-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/556.1",
      "sha256": "748270a4ba0e52c4b054bda5b0a46e2c9a9d237e08a86c2a5e6d7bcd621b0f5a"
@@ -119,6 +146,9 @@
    "versions": [
     {
      "from": "2004-09-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/621.1",
      "sha256": "3e246a396f3c2c42f3837e99946494ebc6b1766f31cf4076ac729660bc940589"
@@ -133,6 +163,9 @@
    "versions": [
     {
      "from": "2008-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/622.1",
      "sha256": "2d03abc1f98a019779eb7bd92acd3f4fe4fe40e18316c7938edd65cd47dc4470"
@@ -147,6 +180,9 @@
    "versions": [
     {
      "from": "1998-05-14",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/623.1",
      "sha256": "aa7e7adc2a7dbd35aced8ad041f1970546cab10c293af47b2345b8660baee224"
@@ -161,12 +197,18 @@
    "versions": [
     {
      "from": "2011-07-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.1/versions/128",
      "sha256": "cc7b85c13f9a5542a10b1222fa41f42f1854d0fd55458f57b4b342319a744983"
     },
     {
      "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.1",
      "sha256": "06cfbb4c4dee7a9a1777f6196c61984cc70794b7cb473c2621c49dd728c989dd"
@@ -181,12 +223,18 @@
    "versions": [
     {
      "from": "2021-01-01",
+     "to": "2025-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.11/versions/195",
      "sha256": "72840d87c0720aa03e04170105d59cc616dc2fbf624bbd36d2608c035220518d"
     },
     {
      "from": "2025-08-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/624.11",
      "sha256": "e7b3dc404fa8a1f140684d8fb10f147c1e989e900cad1af608855ee9a68fcb9b"
@@ -201,6 +249,9 @@
    "versions": [
     {
      "from": "2004-12-31",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/661.1",
      "sha256": "8ba9b1a96527040858fd23362e1922506aae392752a8699a126436a51ce1c9f7"
@@ -215,12 +266,18 @@
    "versions": [
     {
      "from": "2013-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/671.1/versions/127",
      "sha256": "48ad4411e98267bf4d4fc32dec44c8539d75f537f2d2b798eb0b182b91420a7f"
     },
     {
      "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/671.1",
      "sha256": "783b2cedcb21195f8afa83db32053a59688d281bf1053629588f95ae409bd202"
@@ -235,6 +292,9 @@
    "versions": [
     {
      "from": "2017-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/671.11",
      "sha256": "dbcd1a27a2b84ea511b33d1b109eb187fbb84944245d3d07616055c6affdf164"
@@ -249,12 +309,18 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.2/versions/241",
      "sha256": "15ff2ce014e27a4c342ff5e1fa13e52a12c4dd988acabfbbca8931267944c25b"
     },
     {
      "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.2",
      "sha256": "c46b9b1aabf005e66390e9219c52f4e9e81e162c7ac69998f6f4c20910b788ec"
@@ -269,12 +335,18 @@
    "versions": [
     {
      "from": "2017-01-01",
+     "to": "2025-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.11/versions/255",
      "sha256": "5ad9d8353fd126072c0beb5d5a903c09184007e5960b5113343419560ce0e736"
     },
     {
      "from": "2025-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 27,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.11",
      "sha256": "a4977ca2090167f73a960261e23e258d28cc25f5c16437cec6e8e5a039f0c456"
@@ -289,6 +361,9 @@
    "versions": [
     {
      "from": "2025-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/681.12",
      "sha256": "802ced0509a8ed98d809b8812c71ba3fbfaa73f41892ca9bf9107a093a8e1a80"
@@ -303,6 +378,9 @@
    "versions": [
     {
      "from": "2014-05-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 55,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.1",
      "sha256": "b1e42622faa49bc13cee77bd9bc1f2ee2e7e0cbb42f39252cdf1ab21d1797655"
@@ -317,6 +395,9 @@
    "versions": [
     {
      "from": "2020-12-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 69,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.2",
      "sha256": "0d342eb10c591d56dd35ee364f081b178adcb2914abff7e98352b4119a6ee712"
@@ -331,6 +412,9 @@
    "versions": [
     {
      "from": "2020-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.3",
      "sha256": "64d6f5f80c5eeecd6cb95ff5dea7ca581a70e145bfb784465678296214fdc25c"
@@ -345,6 +429,9 @@
    "versions": [
     {
      "from": "2023-09-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 60,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/720.4",
      "sha256": "8ce587df605b8723797eb114841f30bfae310af8d23d5212a26414bd4973bd83"
@@ -359,6 +446,9 @@
    "versions": [
     {
      "from": "1972-03-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/726.1",
      "sha256": "610efe4f798f85a6f31ca783097f07642df4cc1767fd5755057eabc8180cab3d"
@@ -373,12 +463,18 @@
    "versions": [
     {
      "from": "2023-09-01",
+     "to": "2023-09-20",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/727.1/versions/239",
      "sha256": "592bffc6a4223c4c606f2ea385291bd9c82b54c5efdc97234677e945916178f5"
     },
     {
      "from": "2023-09-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/727.1",
      "sha256": "da35bba26c1f0ae039edc754eb04860344f57512c5a032bf3246712fa127541a"
@@ -393,6 +489,9 @@
    "versions": [
     {
      "from": "1976-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 30,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/732.5",
      "sha256": "470d6f91a27ea524bda85ab9aab180cfeaf40e86dbc0eff2fbb5fab8c4d8e0a7"
@@ -407,12 +506,18 @@
    "versions": [
     {
      "from": "2011-01-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.1/versions/120",
      "sha256": "19b85d6c97a24e5209448adf8972c526ea671a32e105b6bb8e6ea8e851359ae2"
     },
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 51,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.1",
      "sha256": "8698fbff607dbf584aca469123b772722645b68753c66a1f11084a4ff02bf527"
@@ -427,18 +532,27 @@
    "versions": [
     {
      "from": "2011-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.11/versions/119",
      "sha256": "59a16bb0a1afc12d728299d552613baf96b271a5a994d803ed47ad5f5a4af2d3"
     },
     {
      "from": "2023-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.11/versions/245",
      "sha256": "b0f2455c94ad93d17099cc45aa8fecc6ca3cbd596ea20f146e85228d32997ffc"
     },
     {
      "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/734.11",
      "sha256": "3bcf7d4417488052f2356ea7f92f3f9564428e87ffa8115aa26574b293b9998d"
@@ -453,18 +567,27 @@
    "versions": [
     {
      "from": "2011-01-01",
+     "to": "2018-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 37,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.1/versions/117",
      "sha256": "d3af6fb985f0c89d989f9e32fc403af03bc3be7d0f932f4e101405011ba2ffef"
     },
     {
      "from": "2019-01-01",
+     "to": "2026-12-31",
+     "status": "in force",
+     "text_as_of": null,
      "units": 37,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.1",
      "sha256": "ca79bf6bb4ff12275cbed3684ee08f244415df8c12962da141cad1126864e435"
     },
     {
      "from": "2027-01-01",
+     "to": null,
+     "status": "not yet in force",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.1/versions/297",
      "sha256": "9361e672739ccebc8731cbf8ee4a505a082179e79091033041834a5984ebeeec"
@@ -479,6 +602,9 @@
    "versions": [
     {
      "from": "2004-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/742.11",
      "sha256": "670d66e035743f029f3a2f6542f05fb25daf71719347ad50051bb80ac9b4b0d4"
@@ -493,6 +619,9 @@
    "versions": [
     {
      "from": "2005-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/751.11",
      "sha256": "8f35180e6254ecf81154ccd31c4406e51a11717304c99d9843897e35487d9361"
@@ -507,6 +636,9 @@
    "versions": [
     {
      "from": "2004-06-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/761.1",
      "sha256": "29c73028a24e8d778fc77381c244731e1cef617b77f89809eb557ef60d141448"
@@ -521,12 +653,18 @@
    "versions": [
     {
      "from": "2005-05-24",
+     "to": "2013-12-03",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/761.11/versions/139",
      "sha256": "bf7beac1349ab837ec88e9f4a32631421ba3964a38a7ed97066f1a8b0c92b9b2"
     },
     {
      "from": "2013-12-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/761.11",
      "sha256": "9b51892a947806795686d9f605e13ff8877b53683205beeb7d3209cc2736ac55"
@@ -541,6 +679,9 @@
    "versions": [
     {
      "from": "2013-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 41,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/822.1",
      "sha256": "ffa19236bc262faba538b09c671795720f21c20c9347a4692cecd368a715b347"
@@ -555,6 +696,9 @@
    "versions": [
     {
      "from": "1998-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/841.1",
      "sha256": "5b9e92fbc09490a30f3ccb3daf7d4bcd12457f3c3abd660bc07c8b382adefdd3"
@@ -569,12 +713,18 @@
    "versions": [
     {
      "from": "2012-11-06",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/860.1/versions/136",
      "sha256": "abae4aa765aa6107aef5d90a2d3fb78a9f337e0f2b93f92fddfc758ea675a1e9"
     },
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/860.1",
      "sha256": "76a63c076ed587067176e03219f948f89460c36ac737ab59cb4267d9a0ada85c"
@@ -589,6 +739,9 @@
    "versions": [
     {
      "from": "2013-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/865.11",
      "sha256": "fd3b681450f54740722e7d73fcf7ac141354d2c828a3a93887c0517f1e106ce9"
@@ -603,6 +756,9 @@
    "versions": [
     {
      "from": "2007-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/935.1",
      "sha256": "b664e4c8ab5d6b5c3c20f7a1c69ee07cb5a0d538373476c9ce85d49721954e51"
@@ -617,6 +773,9 @@
    "versions": [
     {
      "from": "2007-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/935.11",
      "sha256": "0484bfc104267c0b9d9ced748e7bead353bc6b6c54ce365ea0701b6dae17ac52"
@@ -631,9 +790,461 @@
    "versions": [
     {
      "from": "1969-02-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/936.1",
      "sha256": "5ed1a53815fd2a9884cf90d1ecb4e6e36fc3a522b3fa9afdfd71ac3c46ea903a"
+    }
+   ]
+  },
+  {
+   "slug": "141-1",
+   "short": "SRS 141.1",
+   "title": "Reglement über Gemeindeabstimmungen und -wahlen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/141.1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 62,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/141.1",
+     "sha256": "80a8a6229ec6719642cf0be78bed061f277555176e336efeea39fe12456c39a7"
+    }
+   ]
+  },
+  {
+   "slug": "151-1-go-sr",
+   "short": "GO SR",
+   "title": "Geschäftsordnung des Stadtrats",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/151.1",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "to": "2017-04-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 56,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/151.1/versions/105",
+     "sha256": "45cd57ed2cddab9365f19661a7e35fcc144c622ae93089a82b2b282b80ec57b8"
+    },
+    {
+     "from": "2017-05-01",
+     "to": "2020-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 56,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/151.1/versions/106",
+     "sha256": "397086a3b0e231fd4c7eb450b4fe85fad8d730fee3d6af7c612f87c496a7e947"
+    },
+    {
+     "from": "2020-11-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 56,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/151.1/versions/192",
+     "sha256": "4a73c3f66b538494985a9275d880c1570947512f25c867862a7fd1bcf0abf95b"
+    },
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 106,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/151.1",
+     "sha256": "3046acf87c7844e4fa8731df11450d0d29222f38d8fd2d7221ab9f53280a0110"
+    }
+   ]
+  },
+  {
+   "slug": "161-11-verwaltungsverordnung",
+   "short": "Verwaltungsverordnung",
+   "title": "Verordnung über die Verwaltungsorganisation",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/161.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 68,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.11/versions/104",
+     "sha256": "a406c3e6517bad894dfa5464f12bf7829f46a49470214524a69514c21a2ff8ec"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2020-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 71,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.11/versions/161",
+     "sha256": "142d1fcee4131a12d35ee10225076ef0ebde1bd2bb16b919d8e8d0d37375fff9"
+    },
+    {
+     "from": "2020-04-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 75,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.11/versions/249",
+     "sha256": "4e442445457674f43d64da0c450bee59a54e7c910be61414105046a7cafaeab7"
+    },
+    {
+     "from": "2026-01-01",
+     "to": "2026-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 77,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.11/versions/289",
+     "sha256": "98b0d52d262087b7a78f820381ea421a42634306906cddab19d35264951ca6ed"
+    },
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 76,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.11",
+     "sha256": "7ccc89bf9a1580dc91849736bbd20ebb872d7799693d2fdfce4f16a0866e9d7a"
+    }
+   ]
+  },
+  {
+   "slug": "161-12-geververordnung",
+   "short": "Geververordnung",
+   "title": "Verordnung über die elektronische Geschäftsverwaltung und Archivierung in der Stadtverwaltung Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/161.12",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.12",
+     "sha256": "912b2308b7f340033708bd261d5a1f50f8237297720eb5dbaf0bd85c78fb0fb4"
+    }
+   ]
+  },
+  {
+   "slug": "161-14",
+   "short": "SRS 161.14",
+   "title": "Verordnung über die Nutzung von Informatikmitteln",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/161.14",
+   "versions": [
+    {
+     "from": "2001-12-04",
+     "to": "2025-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.14/versions/133",
+     "sha256": "4d2311c2a4484890cfc00869fb9318e58ac80039da1c3c7538721bb620fc4d40"
+    },
+    {
+     "from": "2025-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/161.14",
+     "sha256": "0809c01ab3d7f04e473ab4f685115d16c5424fd156e2fe12526571ef8b5fe54d"
+    }
+   ]
+  },
+  {
+   "slug": "171-1",
+   "short": "SRS 171.1",
+   "title": "Personalreglement",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/171.1",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/171.1",
+     "sha256": "af41cdc0e9ca60da04682087e76c27091b15ef5520f92b640a20011117ec04f9"
+    }
+   ]
+  },
+  {
+   "slug": "171-15",
+   "short": "SRS 171.15",
+   "title": "Verordnung über die städtischen Parkplätze",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/171.15",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/171.15",
+     "sha256": "eba001e0c9208cd015f5b5cfade954d3362454188871abb0aff12f8630c978df"
+    }
+   ]
+  },
+  {
+   "slug": "172-1",
+   "short": "SRS 172.1",
+   "title": "Reglement über Entschädigungen für Behörden und Kommissionen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/172.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/172.1",
+     "sha256": "992a3cde8824ae49f16c7245b59fde015f726f8203111052e138b3387fc37b43"
+    }
+   ]
+  },
+  {
+   "slug": "421-11-vbib",
+   "short": "VBib",
+   "title": "Bibliotheksverordnung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/421.11",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/421.11/versions/114",
+     "sha256": "1339725bccd2deea01b5ce9aa1f84a1b9e8159457af5a653a00e1c423ed0796f"
+    },
+    {
+     "from": "2016-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/421.11",
+     "sha256": "eeaf698f366bb70940378cd92976a869ebda51363beb213df073bd7e543875fb"
+    }
+   ]
+  },
+  {
+   "slug": "421-12-vlud",
+   "short": "VLud",
+   "title": "Ludotheksverordnung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/421.12",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/421.12/versions/112",
+     "sha256": "b871828c8b7fecc543e053f2807f170539babad67b6a69a73c72e4b59c1d99ca"
+    },
+    {
+     "from": "2016-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/421.12",
+     "sha256": "01ac6f96c5486df639b8a1908ded398a39d9047aa9b1bf19cb4ef292060288c1"
+    }
+   ]
+  },
+  {
+   "slug": "423-11",
+   "short": "SRS 423.11",
+   "title": "Verordnung über die Ehrung im Bereich Kultur, Kunst, Soziales und Sport",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/423.11",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/423.11",
+     "sha256": "cc11a29ba98715e377202728105152a338060ba73476ad5a4e9d8dfd9ac6dd5d"
+    }
+   ]
+  },
+  {
+   "slug": "430-1-schulreglement",
+   "short": "Schulreglement",
+   "title": "Reglement über das Schulwesen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/430.1",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 31,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/430.1",
+     "sha256": "2d857d79a29459060da7966825767c15f863d07e96495b77410cbcece0c3d4b4"
+    }
+   ]
+  },
+  {
+   "slug": "430-11-schulverordnung",
+   "short": "Schulverordnung",
+   "title": "Verordnung über das Schulwesen",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/430.11",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 34,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/430.11",
+     "sha256": "bca8f6e39fab5b71c0b7a01beb31d489b112356124109f1e2a9adefbd964f9fd"
+    }
+   ]
+  },
+  {
+   "slug": "430-12",
+   "short": "SRS 430.12",
+   "title": "Verordnung über die Schulzahnpflege",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/430.12",
+   "versions": [
+    {
+     "from": "2003-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/430.12",
+     "sha256": "f697f35e076be9d3a50bb31d0536eeda44a142ef1aa83d012d148c25a9df2cec"
+    }
+   ]
+  },
+  {
+   "slug": "435-1",
+   "short": "SRS 435.1",
+   "title": "Reglement über die Jugendkommission Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/435.1",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/435.1",
+     "sha256": "559586c87381a6c38b3af70e9f89ada544420438977ecb6145c609fa7b40e4f8"
+    }
+   ]
+  },
+  {
+   "slug": "435-4",
+   "short": "SRS 435.4",
+   "title": "Reglement über die Kinderbetreuung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/435.4",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "to": "2020-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 27,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/435.4/versions/172",
+     "sha256": "96341f35d2e74e6a01cd6c83f0986a91f6ce4c64fc52bfcadf5dbc4dec827f99"
+    },
+    {
+     "from": "2020-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 27,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/435.4",
+     "sha256": "eddd719184c0f0955b3e59691f405c2419d1a1a7aa9b36e5370d0bc1cbff102e"
+    }
+   ]
+  },
+  {
+   "slug": "435-52",
+   "short": "SRS 435.52",
+   "title": "Verordnung über die Kinderbetreuung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/435.52",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 28,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/435.52",
+     "sha256": "5fda93350af20d2b7730477e31fb96809b0f416db105a6c8d445e1009b4aecf1"
+    }
+   ]
+  },
+  {
+   "slug": "437-81",
+   "short": "SRS 437.81",
+   "title": "Badeordnung",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/437.81",
+   "versions": [
+    {
+     "from": "2012-05-01",
+     "to": "2022-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/437.81/versions/126",
+     "sha256": "3609cc616c955542b83d1f9317469295393cabde6c331e0549015deb8e8ba465"
+    },
+    {
+     "from": "2022-06-01",
+     "to": "2023-05-01",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/437.81/versions/213",
+     "sha256": "aadbd16dc471aed09704e94674c8e8d05ba24f82efb3bdad33fe874d0aa8d335"
+    },
+    {
+     "from": "2023-05-02",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/437.81/versions/247",
+     "sha256": "99c635d7d732e1f9a29ab690c8091bcb15585e8aec8e3f9a06a210f71fe3530f"
+    },
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 18,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/437.81",
+     "sha256": "e49d139a6d3212f1384550ff35f832f6c206c0bcf40ab2aa1b9809aa1542fe91"
+    }
+   ]
+  },
+  {
+   "slug": "437-82-strandbadtarif",
+   "short": "Strandbadtarif",
+   "title": "Tarif für die Benützung der Anlagen des Strandbades Nidau",
+   "url": "https://nidau.tlex.ch/app/de/texts_of_law/437.82",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://nidau.tlex.ch/api/de/texts_of_law/437.82",
+     "sha256": "33b375deb0be6926db6317e981ca167f9b305583c7fc3f049d6ed94ced046564"
     }
    ]
   }

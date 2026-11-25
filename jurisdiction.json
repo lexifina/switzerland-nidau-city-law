@@ -1,11 +1,11 @@
 {
-  "path": "ch-be-nidau",
-  "code": "CH-BE-NIDAU",
-  "name": "Nidau (city)",
-  "level": "municipality",
-  "parent": "ch-be",
-  "repo": "https://github.com/lexifina/switzerland-nidau-city-law",
-  "build": "partial: 56 of 94 active SRS entries complete (59 records, 74 versions); five annexes, PDF-only entries and one newly revised text remain",
-  "language": "de",
-  "sources": 1
+ "path": "switzerland/bern/nidau",
+ "code": "CH-BE-NIDAU",
+ "name": "Nidau (city)",
+ "level": "municipality",
+ "parent": "switzerland/bern",
+ "repo": "https://github.com/lexifina/switzerland-nidau-city-law",
+ "build": "partial: 56 of 94 active SRS entries complete (59 records, 74 versions); five annexes, PDF-only entries and one newly revised text remain",
+ "language": "de",
+ "sources": 1
 }

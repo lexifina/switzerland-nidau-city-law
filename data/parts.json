@@ -48,6 +48,30 @@
     "936-1"
    ],
    "sha256": "3304ed4b5b249d1b135a67846dd442393a37b20096a3577e3f2c5a832421b677"
+  },
+  "95-watch-20261125-000-new.json": {
+   "acts": [
+    "141-1",
+    "151-1-go-sr",
+    "161-11-verwaltungsverordnung",
+    "161-12-geververordnung",
+    "161-14",
+    "171-1",
+    "171-15",
+    "172-1",
+    "421-11-vbib",
+    "421-12-vlud",
+    "423-11",
+    "430-1-schulreglement",
+    "430-11-schulverordnung",
+    "430-12",
+    "435-1",
+    "435-4",
+    "435-52",
+    "437-81",
+    "437-82-strandbadtarif"
+   ],
+   "sha256": "c7cd1e33155148b7744744cf947f3e912de8263e31ed86f2d89f70d3eebae954"
   }
  },
  "schema": 1
