@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:19:18Z",
+ "generated": "2026-11-27T07:13:19Z",
  "latest": {
   "lexwork-nidau-city|switzerland/bern/nidau/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 9,
+    "checked": 10,
     "current": 58,
     "gone": 0,
     "held": 58,
@@ -23,26 +23,26 @@
     "repo": 58,
     "source_in_scope": 58
    },
-   "check_id": "ch-lexwork-nidau-city-20261126T061012Z",
+   "check_id": "ch-lexwork-nidau-city-20261127T060341Z",
    "commits": null,
    "corpus": "switzerland/bern/nidau/acts",
    "error": null,
-   "finished": "2026-11-26T06:10:42Z",
+   "finished": "2026-11-27T06:04:08Z",
    "flags": [
     {
-     "detail": "1 of 13 texts differ from the source",
+     "detail": "1 of 18 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
    "gap": 32,
-   "note": "nidau.tlex.ch: index of 94 acts (94 in force); held 58; 0 in force and in scope not held yet, 4 out of scope (land-use plans, concessions, directives, forms: as the builder), 32 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "note": "nidau.tlex.ch: index of 94 acts (94 in force); held 58; 0 in force and in scope not held yet, 4 out of scope (land-use plans, concessions, directives, forms: as the builder), 32 published only as PDF; 10 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 26,
+   "requests": 23,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "94 entries, 94 in force (nidau.tlex.ch)",
    "source": "lexwork-nidau-city",
-   "started": "2026-11-26T06:10:12Z",
+   "started": "2026-11-27T06:03:41Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -70,12 +70,12 @@
      "437.81 (437-81): 2022-06-01"
     ],
     "held": 58,
-    "method": "each act compared this check (9 of 58: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from nidau.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (10 of 58: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from nidau.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
     "ok": false,
-    "swept": 9,
-    "versions_checked": 13,
+    "swept": 10,
+    "versions_checked": 18,
     "versions_differ": 1
    }
   }
