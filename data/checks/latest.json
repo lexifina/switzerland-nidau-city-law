@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:13:19Z",
+ "generated": "2026-11-28T08:35:41Z",
  "latest": {
   "lexwork-nidau-city|switzerland/bern/nidau/acts": {
    "attempt": 1,
@@ -23,14 +23,14 @@
     "repo": 58,
     "source_in_scope": 58
    },
-   "check_id": "ch-lexwork-nidau-city-20261127T060341Z",
+   "check_id": "ch-lexwork-nidau-city-20261128T055919Z",
    "commits": null,
    "corpus": "switzerland/bern/nidau/acts",
    "error": null,
-   "finished": "2026-11-27T06:04:08Z",
+   "finished": "2026-11-28T05:59:48Z",
    "flags": [
     {
-     "detail": "1 of 18 texts differ from the source",
+     "detail": "1 of 15 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 23,
+   "requests": 26,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "94 entries, 94 in force (nidau.tlex.ch)",
    "source": "lexwork-nidau-city",
-   "started": "2026-11-27T06:03:41Z",
+   "started": "2026-11-28T05:59:19Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -75,7 +75,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 10,
-    "versions_checked": 18,
+    "versions_checked": 15,
     "versions_differ": 1
    }
   }
